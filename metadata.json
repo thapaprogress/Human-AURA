@@ -1,0 +1,6 @@
+{
+  "name": "Nature Aura",
+  "description": "Biometric chakra aura scanner with live front-camera AGSL shader overlay, Wear OS & BLE telemetry bridge, and healing frequency therapy (Alpha, Beta, Gamma, Aum).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

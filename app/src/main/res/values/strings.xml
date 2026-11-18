@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Nature Aura</string>
+    <string name="nav_scan">Aura Scan</string>
+    <string name="nav_chakras">Chakras</string>
+    <string name="nav_journal">Journal</string>
+    <string name="nav_therapy">Therapy</string>
+    <string name="nav_wearables">Wearables</string>
+    <string name="start_scan">Begin 15s Aura Scan</string>
+    <string name="stop_scan">Stop Scan</string>
+    <string name="snap_aura_photo">Snap Aura Photo</string>
+    <string name="scanning_label">Harmonizing Biometric Window</string>
+    <string name="camera_permission_title">Enable Front Camera for Aura Field</string>
+    <string name="camera_permission_body">Grant camera access to capture your aura photograph and project your real-time biometric chakra corona.</string>
+    <string name="grant_camera">Enable Camera</string>
+    <string name="calibration_badge">CALIBRATION SIGNAL ACTIVE — NO WEARABLE PAIRED</string>
+</resources>
